@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "EmotiCODE",
+                "mnemonic": "e",
+                "id": "emoticode",
+                "children":
+                [
+                    {
+                        "command": "emoticode_search_selection",
+                        "caption": "Search Selection"
+                    },
+                    {
+                        "command": "emoticode_search_input",
+                        "caption": "Search From Input"
+                    }
+                ]
+            }
+        ]
+    }
+]
